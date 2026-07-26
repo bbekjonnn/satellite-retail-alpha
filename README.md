@@ -1,1 +1,1 @@
-# satellite-retail-alpha
+# satellite-retail
